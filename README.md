@@ -39,45 +39,18 @@
 
 <div align="center">
 
-<a href="https://github.com/RaoHanzala19/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaoHanzala19&repo=portfolio&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/RaoHanzala19/Staff_login">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaoHanzala19&repo=Staff_login&theme=tokyonight&hide_border=true" />
-</a>
+[![Portfolio](https://img.shields.io/badge/💼_Portfolio-View_Repo-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaoHanzala19/portfolio)
+[![Staff Login](https://img.shields.io/badge/🔐_Staff__Login-View_Repo-22d3ee?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaoHanzala19/Staff_login)
 
 </div>
 
 <br/>
 
-### 📊 GitHub Stats
+### 📊 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RaoHanzala19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rao's GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaoHanzala19&theme=tokyonight&hide_border=true" alt="Rao's streak stats" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoHanzala19&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-
-</div>
-
-<br/>
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RaoHanzala19&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaoHanzala19&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaoHanzala19&theme=tokyonight&hide_border=true" alt="Rao's streak stats" />
 
 </div>
 
