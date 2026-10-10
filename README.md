@@ -131,7 +131,7 @@
 
 ### 📫 Let's work together
 
-[![Email](https://img.shields.io/badge/Email-raohanzala457%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raohanzala457@gmail.com)
+[![Email](https://img.shields.io/badge/Email-raohanzala513%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raohanzala513@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-raohanzala19.github.io-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raohanzala19.github.io/portfolio/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:6366f1&height=100&section=footer" width="100%"/>
