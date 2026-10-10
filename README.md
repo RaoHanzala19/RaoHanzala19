@@ -79,6 +79,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-22c55e?style=for-the-badge&logo=githubpages&logoColor=white)](https://raohanzala19.github.io/sheltering-heart-charity/)
 [![View Repo](https://img.shields.io/badge/GitHub-View_Repo-22d3ee?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaoHanzala19/sheltering-heart-charity)
 
 </div>
@@ -115,6 +116,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+[![Live Site](https://img.shields.io/badge/Live-Site-22c55e?style=for-the-badge&logo=githubpages&logoColor=white)](https://raohanzala19.github.io/portfolio/)
 [![View Repo](https://img.shields.io/badge/GitHub-View_Repo-22d3ee?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaoHanzala19/portfolio)
 
 </div>
@@ -130,6 +132,7 @@
 ### 📫 Let's work together
 
 [![Email](https://img.shields.io/badge/Email-raohanzala457%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raohanzala457@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-raohanzala19.github.io-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raohanzala19.github.io/portfolio/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:6366f1&height=100&section=footer" width="100%"/>
 
