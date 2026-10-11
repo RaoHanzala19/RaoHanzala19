@@ -74,15 +74,16 @@
 
 <div align="center">
 
-### 🎨 Fine Arts Institute Management System
+### 🎨 Institute of Fine Arts Portal
 
-*Staff portal for a fine arts institute: students, design submissions, competitions, awards, exhibitions and sales, with a login-protected dashboard.*
+*Role-based portal (Admin, Manager, Staff, Student) for painting competitions, JPEG submissions, evaluations, awards with certificates, and exhibitions with sales & payouts. Public gallery and dashboards with charts.*
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core_8_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaoHanzala19/fine-arts-institute-management)
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaoHanzala19/institute-of-fine-arts)
 
 </div>
 
