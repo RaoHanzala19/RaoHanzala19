@@ -50,6 +50,26 @@
 
 <table width="100%">
 <tr>
+<td colspan="2" valign="top">
+
+<div align="center">
+
+### 🏋️ FitTrack: MERN Fitness Tracker
+
+*Full-stack fitness app: workouts, nutrition, progress charts, goals, reminders, analytics and PDF/CSV reports, with JWT login and automated tests.*
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaoHanzala19/fitness-tracker)
+
+</div>
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <div align="center">
